@@ -9,3 +9,7 @@ Somewhere in the island
 ## Work Experiences
 
 StackTrek - Software Developer - 2022 - Present
+
+## Biology
+
+Was a former developer
